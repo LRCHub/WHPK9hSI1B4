@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "さよならはエモーション",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-04T01:18:36.560547Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならはエモーション",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_さよならはエモーション_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならはエモーション",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_さよならはエモーション_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さよならはエモーション(Qrion Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_さよならはエモーション(Qrion_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sayonara wa Emotion [さよならはエモーション]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_Sayonara_wa_Emotion_[さよならはエモーション]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "さよならはエモーション",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/05_さよならはエモーション_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "さよならはエモーション",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/06_さよならはエモーション_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "さよならはエモーション",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/07_さよならはエモーション_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サカナクション - さよならはエモーション 　-Music Video-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/08_サカナクション_-_さよならはエモーション_-Music_Video-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "さよならはエモーション (Qrion Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/09_さよならはエモーション_(Qrion_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならはエモーション",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_さよならはエモーション_サカナクション.txt"
+    }
+  ]
+}
